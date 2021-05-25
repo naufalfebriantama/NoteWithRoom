@@ -2,6 +2,7 @@ package com.example.belajarroom.db.note
 
 import android.app.Application
 import androidx.lifecycle.LiveData
+import com.example.belajarroom.db.AppDatabase
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.runBlocking
